@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a630fb7b-7e56-4236-b3d2-9cfd355c0268" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/BackEnd/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/PortfolioApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/contact/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/contact/dto/ContactRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/contact/entity/ContactMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/contact/repository/ContactRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/contact/service/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/profile/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/profile/dto/ProfileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/profile/service/ProfileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/project/controller/ProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/project/dto/ProjectResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/project/entity/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/project/repository/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/domain/project/service/ProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/global/common/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/global/common/BaseTimeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/global/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/global/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/java/com/jimin/portfolio/global/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/src/test/java/com/jimin/portfolio/PortfolioApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="37uhNicWDj4VpfG3mA1c5DeKqae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.portfolio 빌드.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.PortfolioApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jimin/portfolio/BackEnd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.654023",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jimin\portfolio\BackEnd" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PortfolioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="portfolio.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jimin.portfolio.PortfolioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a630fb7b-7e56-4236-b3d2-9cfd355c0268" name="변경" comment="" />
+      <created>1767758825998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767758825998</updated>
+      <workItem from="1767758827177" duration="5853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
