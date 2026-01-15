@@ -16,11 +16,11 @@ export default function ProjectPage() {
     <div>
     <Head />
     
-    <section className="mx-auto max-w-5xl px-6 py-20">
+    <section className="text-[#2E2A4A] mx-auto max-w-5xl px-6 py-20">
       <h1 className="mb-12 text-center text-4xl font-bold">
         Projects
       </h1>
-      <br /><br /><br />
+      <br /><br /><br /><br />
 
       {/* Grid */}
       <div className="grid grid-cols-1 gap-8 md:grid-cols-2">

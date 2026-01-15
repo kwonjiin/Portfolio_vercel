@@ -17,7 +17,7 @@ export default function ProjectCard({
       className="
         cursor-pointer
         rounded-2xl
-        border border-neutral-300
+        border border-[#211378]/50
         p-8
         transition
         hover:-translate-y-1

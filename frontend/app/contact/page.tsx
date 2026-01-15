@@ -5,29 +5,26 @@ export default function ContactPage() {
   return (
     <div>
       <Head />
-
-      <br />
-
       <section className="mx-auto max-w-6xl px-6 py-20">
         {/* Title - 정가운데 */}
-        <h1 className="mb-20 text-center text-4xl font-bold">
+        <h1 className="mb-20 text-center text-4xl font-bold text-[#211378]">
           Contact
         </h1>
 
-        <br /><br /><br /><br />
+        <br /><br /><br />
 
         {/* Left / Right Grid */}
         <div className="grid grid-cols-1 gap-16 md:grid-cols-2 items-start">
           {/* LEFT - Intro */}
           <div className="max-w-xl text-[16px] leading-relaxed">
-            <div className="rounded-2xl border border-neutral-300 p-8">
+            <div className="rounded-2xl border-[#211378]/50 border p-8">
                 <br />
-            <h2 className="mb-6 text-xl font-semibold">
+            <h2 className="mb-6 text-xl font-semibold text-[#211378]">
                 How I Work
             </h2>
             <br />
 
-            <p className="text-[16px] leading-relaxed">
+            <p className="text-[16px] leading-relaxed text-[#211378]">
                 풀스택 개발자로서  
                 기능 구현보다 <strong>왜 이렇게 설계했는지</strong>를 설명할 수 있는 코드를 지향합니다.
             <br /><br />
@@ -39,14 +36,14 @@ export default function ContactPage() {
           </div>
 
           {/* RIGHT - Contact Info */}
-          <div className="rounded-2xl border border-neutral-300 p-8">
+          <div className="rounded-2xl border border-[#211378]/50 p-8">
             <br />
-            <h2 className="mb-6 text-xl font-semibold">
+            <h2 className="mb-6 text-[#211378] text-xl font-semibold">
               Get in Touch
             </h2>
             <br />
 
-            <ul className="space-y-4 text-sm">
+            <ul className="space-y-4 text-[#211378] text-sm">
               <li>
                 📧 Email :
                 <a
