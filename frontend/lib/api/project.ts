@@ -11,7 +11,7 @@ export interface Project {
 }
 
 export async function fetchProjects(): Promise<Project[]> {
-  const res = await fetch("http://localhost:8080/api/projects", {
+  const res = await fetch("https://www.kwonjiminportfolio.com/api", {
     cache: "no-store",
   });
 
