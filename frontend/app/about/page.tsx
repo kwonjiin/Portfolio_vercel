@@ -19,7 +19,7 @@ export default function AboutTabs() {
       <Head /><br />
       {/* Tabs */}
       <div className="flex justify-center">
-      <ul className="flex rounded-md h-10 w-3xs bg-slate-100 p-1">
+      <ul className="flex rounded-md h-10 w-3xs bg-[#a8abdd81] p-1">
         {tabs.map((tab) => (
           <li key={tab} className="flex-1 text-center">
             <button
@@ -209,7 +209,7 @@ export default function AboutTabs() {
               <a
                 href="/resume-kwonjimin.pdf"
                 download
-                className="inline-flex items-center gap-2 border-[#2E2A4A] rounded-full border px-5 py-2 text-sm hover:bg-neutral-100 transition"
+                className="inline-flex items-center gap-2 border-[#6E72A6] rounded-full border-2 px-5 py-2 text-sm hover:bg-neutral-100 transition"
               >
                 📄 이력서 다운로드
               </a>
